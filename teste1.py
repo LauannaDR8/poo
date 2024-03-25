@@ -1,1 +1,1 @@
-if
+class Usuario:
